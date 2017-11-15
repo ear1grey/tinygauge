@@ -1,0 +1,26 @@
+{
+  "name": "tinygauge",
+  "version": "1.0.0",
+  "description": "A tiny gauge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ear1grey/tinygauge.git"
+  },
+  "keywords": [
+    "gauge",
+    "pie",
+    "chart",
+    "canvas",
+    "js"
+  ],
+  "author": "Rich Boakes <rjb@boakes.org> (http://boakes.org/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ear1grey/tinygauge/issues"
+  },
+  "homepage": "https://github.com/ear1grey/tinygauge#readme"
+}
